@@ -77,4 +77,4 @@ First pass at showing comparison
 
 ## Special thanks
 
-Thank you to IDS professors Dominik Mortiz and Adam Perer and the TAs for their help!
+Thank you to IDS professors Dominik Moritz and Adam Perer and the TAs for their help!
