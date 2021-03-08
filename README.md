@@ -1,4 +1,4 @@
-# IDS Final Project: Pixlise+
+# IDS Final Project: Pixlise-C
 
 ![demo gif](/readme_assets/pixl.gif)
 
