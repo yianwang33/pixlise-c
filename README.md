@@ -14,9 +14,11 @@
 ## Abstract
 NASA JPL scientists working on the micro x-ray fluorescence (microXRF) spectroscopy data collected from Mars surface perform data analysis to look for signs of past microbial life on Mars. Their data analysis workflow mainly involves identifying mineral compounds through the element abundance in spatially distributed data points. Working with the NASA JPL team, we identified pain points and needs to further develop their existing data visualization and analysis tool. Specially, the team desired improvements for the process of creating and interpreting mineral composition groups. To address this problem, we developed an interactive tool that enables scientists to (1) semi-automatically cluster the data, and (2) compare the clusters and individual data points to make informed decisions about mineral compositions. Our tool supports a hybrid data analysis workflow where the user can manually refine the machine generated clusters. 
 
-## Link to paper: [In Markdown](/Report.md)
+## Link to paper: [Arxiv](https://arxiv.org/abs/2103.16060)
 
 ## [Demonstration Video](https://drive.google.com/file/d/1_QGiacQm2zVKVjjAQtvHT8NS_-jSTGu_/view?usp=sharing)
+
+## [SpaceCHI 2021 Talk](https://www.youtube.com/watch?v=PP9NgXQZtPI)
 
 ## Setting up the software
 
