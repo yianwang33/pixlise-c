@@ -78,3 +78,8 @@ First pass at showing comparison
 ## Special thanks
 
 Thank you to IDS professors Dominik Moritz and Adam Perer and the TAs for their help!
+
+---
+
+Images courtesy of NASA/JPL-Caltech.
+The research was carried out by the Jet Propulsion Laboratory, California Institute of Technology, under a contract with the National Aeronautics and Space Administration (80NM0018D0004).
